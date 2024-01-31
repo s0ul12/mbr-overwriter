@@ -1,3 +1,3 @@
 # mbr-overwriter
-bitcoin machine
-i learned this thingy bc of cyber soldier, credits to him
+- bitcoin machine
+- i learned this thingy from cyber soldier, credits to him
